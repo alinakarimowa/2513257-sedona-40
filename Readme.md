@@ -2,6 +2,7 @@
 
 * Студент: [Алина Каримова](https://up.htmlacademy.ru/htmlcss/40/user/2513257).
 * Наставник: [Олег Зайцев](https://htmlacademy.ru/profile/ozi).
+* Сайт: [Мой проект: Седона](https://alinakarimowa.github.io/2513257-sedona-40/).
 
 ---
 
